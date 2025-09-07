@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "EcoClimate AI Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Investigate Ecosystem-Climate interactions by AI approaches"
 url                      : https://YKXJ.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YKXJ/YKXJ.github.io"
@@ -23,11 +23,11 @@ repository               : "YKXJ/YKXJ.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kunxiaojia Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Houston"
   uri              : # URL
   email            : "none@example.org" 
 
